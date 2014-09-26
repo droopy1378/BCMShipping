@@ -3,10 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Juancho/Documents/NetBeansProjects/BCMShipping/src/java/bcmshipping/entity/Cuenta.java</file>
-            <file>file:/C:/Users/Juancho/Documents/NetBeansProjects/BCMShipping/src/java/bcmshipping/entity/Usuario.java</file>
-            <file>file:/C:/Users/Juancho/Documents/NetBeansProjects/BCMShipping/src/java/bcmshipping/entity/Direccion.java</file>
-            <file>file:/C:/Users/Juancho/Documents/NetBeansProjects/BCMShipping/src/java/bcmshipping/entity/Pedido.java</file>
+            <file>file:/C:/Users/Gaston/Desktop/Arquitectura%20de%20SoftWare/BCMShipping/trunk/Código/BCMShipping/src/java/bcmshipping/entity/Cuenta.java</file>
+            <file>file:/C:/Users/Gaston/Desktop/Arquitectura%20de%20SoftWare/BCMShipping/trunk/Código/BCMShipping/src/java/bcmshipping/ejb/UsuarioBean.java</file>
         </group>
     </open-files>
 </project-private>
