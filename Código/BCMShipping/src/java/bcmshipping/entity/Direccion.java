@@ -1,11 +1,11 @@
-package Obligatorio.entity;
+package bcmshipping.entity;
 
 /**
  *
- * @author Gaston Marichal
+ * @author Juan Casalderrey, Ignacio Benedetoo & Gastón Marichal
  */
 public class Direccion {
-    
+ 
     private String ciudad;
     private String calle;
     private int numero;
@@ -65,5 +65,6 @@ public class Direccion {
         }
         return ret;
     }
+    
     
 }

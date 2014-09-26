@@ -1,13 +1,14 @@
-package obligatorio.entity;
+package bcmshipping.entity;
 
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Objects;
 
 /**
- * @author Gaston Marichal
+ *
+ * @author Juan Casalderrey, Ignacio Benedetoo & Gastón Marichal 
  */
-public class Usuario {    
+public class Usuario {
+    
     //Attrs
     private int id;
     private String nombre;
@@ -95,16 +96,16 @@ public class Usuario {
         this.listaPedidos = new ArrayList<Pedido>();
     }
 
-    public Usuario(int id, String nom, String ape, String mail, Date fNac,String tel, Direccion dir, Cuenta cta) {
+    public Usuario(int id, String nom, String ape, String mail, Date feNac, String tel, Direccion dir, Cuenta cta) {
         this.id = id;
         this.nombre = nom;
         this.apellido = ape;
         this.correo = mail;
-        this.fechaNacimiento = fNac;
+        this.fechaNacimiento = feNac;
         this.telefono = tel;
         this.direccion = dir;
         this.cuenta = cta;
         this.listaPedidos = new ArrayList<Pedido>();
     }
-    
+
 }

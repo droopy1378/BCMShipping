@@ -1,11 +1,11 @@
-package obligatorio.entity;
+package bcmshipping.entity;
 
 import java.util.Date;
 
 /**
  *
- * @author Gaston Marichal
- */
+ * @author Juan Casalderrey, Ignacio Benedetoo & Gastón Marichal
+*/
 public class Cuenta {
     
     /*Attrs*/
@@ -62,6 +62,5 @@ public class Cuenta {
     public String toString() {
         return "Cuenta: " + alias;
     }
-    
     
 }
